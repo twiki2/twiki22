@@ -89,11 +89,17 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"  />
+  <img height="290" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/tw/tw/blob/output/snake.svg" alt="Snake animation" />
+###
+<p align = "center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twiki2/twiki2/main/github-user-contribution-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twiki2/twiki2/main/github-user-contribution.svg">
+  <img alt="Snake Game" src="https://raw.githubusercontent.com/twiki2/twiki2/main/github-user-contribution.svg">
+</picture>
+</p>
 
 ###
