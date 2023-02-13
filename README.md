@@ -108,8 +108,8 @@
 <!-- 
 <p align = "center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twiki2/twiki2/main/github-user-contribution-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twiki2/twiki2/main/github-user-contribution.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twiki2/twiki2/main/images/github-user-contribution-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twiki2/twiki2/main/images/github-user-contribution.svg">
   <img alt="Snake Game" src="https://raw.githubusercontent.com/twiki2/twiki2/main/github-user-contribution.svg">
 </picture>
 </p>
