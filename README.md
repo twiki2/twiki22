@@ -105,7 +105,7 @@
 ###
 
 ###
-<!-- 
+
 <p align = "center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twiki2/twiki2/master/images/github-user-contribution-dark.svg">
@@ -113,5 +113,5 @@
   <img alt="Snake Game" src="https://raw.githubusercontent.com/twiki2/twiki2/main/github-user-contribution.svg">
 </picture>
 </p>
- -->
+ 
 ###
