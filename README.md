@@ -94,6 +94,13 @@
 
 
 ###
+
+<img src="https://raw.githubusercontent.com/tw/tw/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+<!-- 
 <p align = "center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twiki2/twiki2/main/github-user-contribution-dark.svg">
@@ -101,5 +108,5 @@
   <img alt="Snake Game" src="https://raw.githubusercontent.com/twiki2/twiki2/main/github-user-contribution.svg">
 </picture>
 </p>
-
+ -->
 ###
