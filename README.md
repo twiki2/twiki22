@@ -17,19 +17,19 @@
 
 ###
 
-<p align="left">- I'm Mostafa Gamal 👋</p>
+<p align="left">- I'm <b>Mostafa Gamal</b> 👋</p>
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Cyber Security & Web Development</p>
+<p align="left">- 🌱 I’m currently learning <b>Cyber Security</b> & <b>Web Development</b></p>
 
 ###
 
-<p align="left">-  🔭  I'm @ Software Engineer & Bug Hunter</p>
+<p align="left">-  🔭  I'm @ <b>Software Engineer</b> & <b>Bug Hunter</b></p>
 
 ###
 
-<p align="left">- 📫 How to reach me twiki00@protonmail.com</p>
+<p align="left">- 📫 How to reach me <a href="twiki00@protonmail.com">Email</a></p>
 
 ###
 <p align="left">- 💬 Ask me anything 
