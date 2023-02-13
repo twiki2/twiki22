@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 📫 How to reach me <a href="twiki00@protonmail.com">Email</a></p>
+- 📫 How to reach me  [Email](twiki00@protonmail)
 
 ###
 <p align="left">- 💬 Ask me anything 
