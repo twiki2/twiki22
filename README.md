@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 📫 How to reach me  twiki00@protonmail.com </p>
+<p align="left">- 📫 How to reach me  <a href ="mailto:twiki00@protonmail.com">Email</a> </p>
 
 ###
 <p align="left">- 💬 Ask me anything 
