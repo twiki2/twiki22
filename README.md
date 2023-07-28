@@ -21,11 +21,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning <b>Cyber Security</b> & <b>Web Development</b></p>
-
-###
-
-<p align="left">-  🔭  I'm @ <b>Software Engineer</b> & <b>Bug Hunter</b></p>
+<p align="left">- 🌱 I’m currently learning <b>Web Development</b></p>
 
 ###
 
