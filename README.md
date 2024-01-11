@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning <b>Web Development</b></p>
+<p align="left">- 🌱 I’m currently learning <b>Web Development</b> and <b>Cyber Security</b></p>
 
 ###
 
